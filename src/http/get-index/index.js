@@ -26,7 +26,7 @@ exports.handler = async function Index () {
     /**
      * Layout
      */
-    photographer: 'Ivana Cajina',
+    photographer: 'Tripaloski',
     service: 'Unsplash',
     credit: 'https://unsplash.com/@von_co',
     image: arc.static('background.jpg', {stagePath: false})
